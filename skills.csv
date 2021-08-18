@@ -1,0 +1,33 @@
+title,icon,category
+JavaScript,icon-javascript,Front-end
+jQuery,icon-jquery,Front-end Framework
+Svelte,icon-svelte,Front-end Framework
+Docker,icon-docker,Cloud Platforms & Services
+Postman,icon-postman,Other Tools
+Powershell,icon-powershell,Other Tools
+MySQL,icon-mysql,DBMS
+Python,icon-python,Back-end
+Bootstrap,icon-bootstrap,Front-end
+PHP,icon-php,Back-end
+Ionic,icon-ionic,Desktop/Mobile Apps
+Microsoft Office 365,icon-microsoftoffice,Other Tools
+Android SDK,icon-android,Desktop/Mobile Apps
+TypeScript,icon-typescript,Back-end
+Java,icon-java,Desktop/Mobile Apps
+Go,icon-go,Back-end
+Strapi,icon-strapi,Cloud Platforms & Services
+Adobe Creative Cloud,icon-adobecreativecloud,Other Tools
+Google Cloud,icon-googlecloud,Cloud Platforms & Services
+Amazon Web Services,icon-amazonaws,Cloud Platforms & Services
+Microsoft Azure,icon-microsoftazure,Cloud Platforms & Services
+DigitalOcean,icon-digitalocean,Cloud Platforms & Services
+Heroku,icon-heroku,Cloud Platforms & Services
+Netlify,icon-netlify,Cloud Platforms & Services
+PostgreSQL,icon-postgresql,DBMS
+MongoDB,icon-mongodb,DBMS
+C#,icon-csharp,Desktop/Mobile Apps
+ASP.NET Core,icon-dot-net,Back-end
+Angular,icon-angular,Front-end Framework
+Bash,icon-terminal,Other Tools
+GitHub,icon-github,Cloud Platforms & Services
+Git,icon-git,Other Tools
